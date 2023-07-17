@@ -164,3 +164,5 @@ proj map/City_Boundaries/
 maps/nsw_locality_polygon_shp.zip
 proj map/City_Boundaries.zip
 .DS_Store
+penalty_data_set_0.csv
+CRIME.csv
